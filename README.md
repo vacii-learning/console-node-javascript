@@ -1,21 +1,21 @@
-# console-node-javascript
+## console-node-javascript
 
-Ejecutar
+# Ejecutar los siguientes comandos
 
-Descarga paquetería necesaria para ejecución
+# Descarga paquetería necesaria para ejecución
 npm i
 
-Instala de manera global
+# Instala de manera global
 npm install -g .
 
-Ejecuta app
+# Ejecuta app
 hello -n Panchito ó hello --name Panchito
 
-Muestra ayuda
+# Muestra ayuda
 hello --help
 
-Muestra versión
+# Muestra versión
 hello --version
 
-Desinstalar
+# Desinstalar
 npm uninstall -g console-node-javascript
