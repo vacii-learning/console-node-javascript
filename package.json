@@ -1,0 +1,27 @@
+{
+  "name": "console-node-javascript",
+  "version": "1.0.0",
+  "description": "Proyecto inicializado de consola para NodeJs con JavaScript y paqueterías de NPM",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vacii-learning/console-node-javascript.git"
+  },
+  "author": "Roberto García (https://rgrendon.wixsite.com/vacii)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vacii-learning/console-node-javascript/issues"
+  },
+  "homepage": "https://github.com/vacii-learning/console-node-javascript#readme",
+  "dependencies": {
+    "boxen": "^4.0.0",
+    "chalk": "^2.4.2",
+    "yargs": "^15.1.0"
+  },
+  "bin": {
+    "hello": "./bin/index.js"
+  }
+}

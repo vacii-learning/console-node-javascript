@@ -1,2 +1,21 @@
 # console-node-javascript
-Proyecto inicializado de consola para NodeJs con JavaScript y paqueterías de NPM
+
+Ejecutar
+
+Descarga paquetería necesaria para ejecución
+npm i
+
+Instala de manera global
+npm install -g .
+
+Ejecuta app
+hello -n Panchito ó hello --name Panchito
+
+Muestra ayuda
+hello --help
+
+Muestra versión
+hello --version
+
+Desinstalar
+npm uninstall -g console-node-javascript
